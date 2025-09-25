@@ -2,7 +2,7 @@
   "version": 2,
   "function": {
     "api/checkin.js": {
-     "runtime""nodejs18.x"
+     "runtime": "nodejs18.x"
     }
   }    
 }  
